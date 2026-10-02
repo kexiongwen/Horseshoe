@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Run outputs (sims.py / horseshoe.py sample dumps)
+Outputs/
+
+# OS / editor
+.DS_Store
+
+# ZCode workspace
+.zcodeignore
