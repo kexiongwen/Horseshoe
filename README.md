@@ -149,3 +149,7 @@ save_samples, save_dir, simtype, verbose) -> HorseshoeResult`
   sigma_sq_mean / beta_samples / xi_samples / sigma_sq_samples / ci_lo /
   ci_hi / coverage / mse / keep_id / acc_rate_xi / mean_active_set /
   elapsed / config`, among others.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
